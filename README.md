@@ -2,4 +2,4 @@
 
 Learning github
 <br>
-Author - Pravallika Gonegari
+Author - Pravallika Reddy G
